@@ -5,6 +5,6 @@ To access the Application, use this link - https://huggingface.co/spaces/jatinm2
 
 
 # Demo App
-
+<img src="images/architecture_V2.png">
 
 
